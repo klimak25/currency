@@ -1,0 +1,11 @@
+.converter {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.converter__title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+}
